@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ✨ I’m Python Automation Engineer 
+- ✨ I’m Automation Engineer 
 - 📫 How to reach me: olishchuk.vyacheslav@gmail.com
 <!--
 **olishchuk1/olishchuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
